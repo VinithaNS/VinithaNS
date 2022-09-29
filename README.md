@@ -1,4 +1,4 @@
-![logo](https://github.com/VinithaNS/VinithaNS/blob/main/banner.png)
+![logo](https://github.com/VinithaNS/VinithaNS/blob/main/Github%20Banner.png.jpg)
 
 <h1 align="center">Hi 👋, I'm Vinitha G</h1>
 <h3 align="center">A passionate Fullstack/MERN developer from India</h3>
